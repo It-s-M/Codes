@@ -1,0 +1,102 @@
+import java.util.*;
+import java.io.*;
+import java.math.*;
+
+class Solution {
+
+    public static void main(String args[]) {
+        Scanner in = new Scanner(System.in);
+        int N = in.nextInt();
+        int k = 0;
+        long sum = 0;
+        for (int i = N; i > 0; i--) {
+            k = N*i;
+            sum += k;
+        }
+        System.out.print(sum);
+    }
+}
+
+import java.util.*;
+import java.io.*;
+import java.math.*;
+
+/**
+ * Auto-generated code below aims at helping you parse
+ * the standard input according to the problem statement.
+ **/
+class Solution {
+
+    public static void main(String args[]) {
+        Scanner in = new Scanner(System.in);
+        double N = in.nextInt();
+
+        double total = 0;
+
+
+        for(int i = 1; i <= N; i++){
+            total = total+(i*N);
+
+        }
+        
+
+        // Write an answer using System.out.println()
+        // To debug: System.err.println("Debug messages...");
+
+        //System.out.printf("%f", total);
+        System.out.print(new BigDecimal(total).toPlainString());
+    }
+}
+
+import java.util.*;
+import java.io.*;
+import java.math.*;
+
+/**
+ * Auto-generated code below aims at helping you parse
+ * the standard input according to the problem statement.
+ **/
+class Solution {
+
+    public static void main(String args[]) {
+        Scanner in = new Scanner(System.in);
+        int N = in.nextInt();
+        long sum = 0;
+
+        for(int i = N; i > 0; i --){
+            long multiplication = (N * i);
+            sum += multiplication;
+        }
+
+        // Write an answer using System.out.println()
+        // To debug: System.err.println("Debug messages...");
+
+        System.out.println(sum);
+    }
+}
+
+import java.util.*;
+import java.io.*;
+import java.math.*;
+
+/**
+ * Auto-generated code below aims at helping you parse
+ * the standard input according to the problem statement.
+ **/
+class Solution {
+
+    public static void main(String args[]) {
+        Scanner in = new Scanner(System.in);
+        int N = in.nextInt();
+
+        // Write an answer using System.out.println()
+        // To debug: System.err.println("Debug messages...");
+
+        Long sum = 0L;
+        for(int i = 1; i <= N; i ++) {
+            sum += N*i;
+        }
+        System.out.println(sum);
+    }
+}
+
