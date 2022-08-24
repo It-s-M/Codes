@@ -1,0 +1,29 @@
+1) How to set up Java and print code...https://code.sololearn.com/cSgmTrPyoC5v
+
+2) Printing dataTypes...https://code.sololearn.com/caODIq3Dkp8Z
+
+2 - Reference) DataTypes sizes & Storage Description...https://code.sololearn.com/c1U48gDdl17I
+
+2a) Changing a variable's value & using the \" escape character...https://code.sololearn.com/ca8rSk3m1dX5
+
+3a) Equations with int variables && the 5 basic Operators...https://code.sololearn.com/c5v8GBJKfAb0
+
+2b) Create a variable in 2 || 3 lines...https://code.sololearn.com/cqJnm4TOH9A1
+
+3b) Concatenation of different variable types...https://code.sololearn.com/cY73739sOosv
+
+3 - Booleans)...https://code.sololearn.com/cNjlQdTe1dWA
+
+3c) A variable made up of variables...https://code.sololearn.com/cWYakTVsDf4G
+
+3c) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
+
+4a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
+
+4aa) string methods charAt() & codePointAt();...https://code.sololearn.com/cbjf1qP86aoY
+
+
+
+
+
+
