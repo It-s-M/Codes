@@ -16,7 +16,9 @@
 
 3c) A variable made up of variables...https://code.sololearn.com/cWYakTVsDf4G
 
-3c) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
+3d) Testing prefix and post fix operators...https://code.sololearn.com/c5G9c1T54U4n
+
+3e) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
 
 4a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
 
