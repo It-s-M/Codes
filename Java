@@ -20,9 +20,11 @@
 
 3e) +=, -=, *=, /= && %= w/ ints & floats...https://code.sololearn.com/cH6i1WuozTd4
 
-4a) Java scanner + if && else statements...https://code.sololearn.com/c74pKOOQOpJK
+4a) Java scanner + if && else statements...https://code.sololearn.com/cCGiiIDlTkEj
 
 3f) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
+
+4b) Scanner with if, else if && else statements...https://code.sololearn.com/cEECH91SLi7E
 
 Late.a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
 
