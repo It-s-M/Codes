@@ -26,6 +26,8 @@
 
 4b) Scanner with if, else if && else statements...https://code.sololearn.com/cEECH91SLi7E
 
+4b) Switch Statement...https://code.sololearn.com/cBOSiaYx4nFe
+
 Late.a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
 
 Late.aa) string methods charAt() & codePointAt();...https://code.sololearn.com/cbjf1qP86aoY
