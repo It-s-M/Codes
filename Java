@@ -18,11 +18,15 @@
 
 3d) Testing prefix and post fix operators...https://code.sololearn.com/c5G9c1T54U4n
 
-3e) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
+3e) +=, -=, *=, /= && %= w/ ints & floats...https://code.sololearn.com/cH6i1WuozTd4
 
-4a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
+4a) Java scanner + if && else statements...https://code.sololearn.com/c74pKOOQOpJK
 
-4aa) string methods charAt() & codePointAt();...https://code.sololearn.com/cbjf1qP86aoY
+3f) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
+
+Late.a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
+
+Late.aa) string methods charAt() & codePointAt();...https://code.sololearn.com/cbjf1qP86aoY
 
 
 
