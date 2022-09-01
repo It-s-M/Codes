@@ -34,6 +34,8 @@ Late.aa) string methods charAt() & codePointAt();...https://code.sololearn.com/c
 
 5) Printing methods with While && For Loops...https://code.sololearn.com/c9LxqN1eWFZo
 
+D1) 8/3/22 - Loops with break statements...https://code.sololearn.com/cRABHI4q6MIa
+
 
 
 
