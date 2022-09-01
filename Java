@@ -32,6 +32,9 @@ Late.a) String method: codePointBefore...https://code.sololearn.com/cGM8e9r8CRxR
 
 Late.aa) string methods charAt() & codePointAt();...https://code.sololearn.com/cbjf1qP86aoY
 
+5) Printing methods with While && For Loops...https://code.sololearn.com/c9LxqN1eWFZo
+
+
 
 
 
