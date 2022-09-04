@@ -1,10 +1,12 @@
 1) How to set up Java and print code...https://code.sololearn.com/cSgmTrPyoC5v
 
-2) Printing dataTypes...https://code.sololearn.com/caODIq3Dkp8Z
+2) Printing dataTypes (by using variable's name)...https://code.sololearn.com/caODIq3Dkp8Z
 
 2 - Reference) DataTypes sizes & Storage Description...https://code.sololearn.com/c1U48gDdl17I
 
-2a) Changing a variable's value & using the \" escape character...https://code.sololearn.com/ca8rSk3m1dX5
+2a) Setting then Changing a variable's value...https://code.sololearn.com/ca8rSk3m1dX5
+
+>> Declaring a variable final   >>>> using the \" escape character
 
 3a) Equations with int variables && the 5 basic Operators...https://code.sololearn.com/c5v8GBJKfAb0
 
@@ -16,7 +18,9 @@
 
 3c) A variable made up of variables...https://code.sololearn.com/cWYakTVsDf4G
 
-3d) Testing prefix and post fix operators...https://code.sololearn.com/c5G9c1T54U4n
+3d) Testing prefix and post fix operators...https://code.sololearn.com/ctSUCA41447G
+
+3f) Equ. & Concat. Display w/ Floats, Doubles...https://code.sololearn.com/c5G9c1T54U4n
 
 3e) +=, -=, *=, /= && %= w/ ints & floats...https://code.sololearn.com/cH6i1WuozTd4
 
